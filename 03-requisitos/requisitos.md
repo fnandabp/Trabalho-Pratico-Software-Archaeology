@@ -29,18 +29,18 @@
 
 ## Confiabilidade - Recuperação de Falhas
 
-**Descrição:** 
+**Descrição:** Por ser uma aplicação voltada à anotações, em caso de uma queda de energia ou falha do programa, é essencial que o software implemente mecanismos para preservar, salvar automaticamente ou recuperar as informações do documento.
 
 **Evidência:**
 
 ## Performance - Traços com baixa latência 
 
-**Descrição:**
+**Descrição:** O usuário enquanto escreve/desenha no documento tem que ter uma resposta rápida entre a ação de desenhar e o desenho realmente sendo feito
 
 **Evidência:**
 
 ## Compatibilidade com diferentes dispositivos de entrada
 
-**Descrição:** A aplicação deve ser compatível com diferentes dispositivos de entrada como mesas digitalizadoras, touch-screen e mouse. Levando em conta as diferenças d
+**Descrição:** A aplicação deve ser compatível com diferentes dispositivos de entrada como mesas digitalizadoras, touch-screen e mouse.
 
 **Evidência:**
