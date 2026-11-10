@@ -3,7 +3,7 @@
 ## Integrantes
 Fernanda Peixoto Bergami (25.1.8108)
 
-Wendel Casimiro Salgado (25.1.8131).
+Wendel Casimiro Salgado (25.1.8131)
 
 ## Software analisado
 Xournal++
