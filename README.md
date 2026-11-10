@@ -11,7 +11,7 @@ Xournal++
 **Link para o projeto original:** https://github.com/xournalpp/xournalpp
 
 ## Objetivo do trabalho
-Descrição do objetivo do trabalho.
+A partir da investigação de um programa já existente, os alunos devem propor uma evolução e, posteriormente, uma implementação experimental. Para isso, é necessário compreender o software, seus usuários, requisitos, código, processo de desenvolvimento e histórico de evolução. 
 
 ## Resumo da proposta de evolução
 Descrição da proposta.
