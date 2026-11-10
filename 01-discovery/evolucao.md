@@ -1,1 +1,0 @@
-## Como o software evolui
